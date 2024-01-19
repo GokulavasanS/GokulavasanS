@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Final year IT student<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with seeking assistance with practical software development and employment opportunities in the field<br>🌱 I’m currently learning Javascript and sqlite<br>💬 Ask me about  how I hacked into NASA’s website when I was 12.👩‍💻<br>
+🔭 Graduated IT student<br>👯 I’m looking to collaborate on open-source projects<br>🤝 Seeking assistance with practical software development and employment opportunities in the field<br>🌱 Currently learning Core Java and MySQL <br>💬 Ask me about  how I hacked into NASA’s website when I was 12.👩‍💻<br>
 
 
 ## 🌐 Socials:
